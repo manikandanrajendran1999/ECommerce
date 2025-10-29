@@ -1,0 +1,10 @@
+[
+    {
+        "searchKey":"Iphone 14",
+        "expectedKey":"Apple iphone 14"
+    },
+    {
+        "searchKey":"Samsung s22",
+        "expectedKey":"Samsung galaxy s22"
+    }
+]
