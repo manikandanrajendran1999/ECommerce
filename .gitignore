@@ -1,6 +1,6 @@
 /target/
-/test-output/
 /reports/
+/test-output/
 *.log
 *.html
 *.json
